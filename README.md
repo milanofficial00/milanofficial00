@@ -1,16 +1,24 @@
-## Hi there 👋
+<!-- Header Animation -->
+<img src="https://github.com/DenverCoder1/readme-typing-svg/blob/main/demo/typing-demo.gif?raw=true" alt="Typing SVG" width="100%" />
 
-<!--
-**milanofficial00/milanofficial00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🎓 BCA Student | Pokhara University (Citizen College)
 
-Here are some ideas to get you started:
+💻 **Aspiring IT Professional | Skilled in Networking, Web Development & Python | Exploring AI, ML & Cloud Technologies**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌟 About Me
+
+💡 *A curious learner constantly exploring the "what", "why not", and "how" behind technology — from code to cloud.*
+
+I’m currently pursuing a **Bachelor’s degree in Computer Applications (BCA)** at **Citizen College, affiliated with Pokhara University**.  
+With a passion for technology and problem-solving, I aim to contribute to innovative, growth-oriented projects that connect creativity with real-world impact.
+
+### 🤝 Let's Connect
+<p align="center">
+  <a href="mailto:itsmebijayaraj@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/bijaypant"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
+
+
+![GitHub Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
