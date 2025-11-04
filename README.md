@@ -2,17 +2,18 @@
 <img src="https://github.com/DenverCoder1/readme-typing-svg/blob/main/demo/typing-demo.gif?raw=true" alt="Typing SVG" width="100%" />
 
 # 🎓 BCA Student | Pokhara University (Citizen College)
-
-💻 **Aspiring IT Professional | Skilled in Networking, Web Development & Python | Exploring AI, ML & Cloud Technologies**
-
+<p>
+💡 <span style="color:#00BFFF; font-weight:500;">A curious learner constantly exploring the "what", "why not", and "how" behind technology — from code to cloud.</span>
+</p>
 ---
-
-### 🌟 About Me
-
-💡 *A curious learner constantly exploring the "what", "why not", and "how" behind technology — from code to cloud.*
+# 🌟 About Me
 
 I’m currently pursuing a **Bachelor’s degree in Computer Applications (BCA)** at **Citizen College, affiliated with Pokhara University**.  
 With a passion for technology and problem-solving, I aim to contribute to innovative, growth-oriented projects that connect creativity with real-world impact.
+
+<p>
+💻 Aspiring IT Professional | Skilled in Networking, Web Development & Python | Exploring AI, ML & Cloud Technologies  
+</p>
 
 ### 🤝 Let's Connect
 <p align="center">
