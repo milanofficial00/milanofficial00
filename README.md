@@ -10,7 +10,9 @@
 
 I’m currently pursuing a **Bachelor’s degree in Computer Applications (BCA)** at **Citizen College, affiliated with Pokhara University**.  
 With a passion for technology and problem-solving, I aim to contribute to innovative, growth-oriented projects that connect creativity with real-world impact.
-et's Connect
+<p>
+  AI/ML Developer | Data Analyst| Exploring Python| 
+  <p>
 <p align="center">
   <a href="mailto:itsmebijayaraj@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/bijaya-raj-pant-69bb21346/" target="_blank">
