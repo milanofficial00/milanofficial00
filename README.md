@@ -3,7 +3,7 @@
 
 # 🎓 BCA Student | Pokhara University (Citizen College)
 <p>
-💡 <span style="color:#00BFFF; font-weight:500;">A curious learner constantly exploring the "what", "why not", and "how" behind technology — from code to cloud.</span>
+💡 <span style="color:#00BFFF; font-weight:500;">A curious learner constantly exploring  "what", "why not", and "how" behind every technology — from code to cloud.</span>
 </p>
 ---
 # 🌟 About Me
